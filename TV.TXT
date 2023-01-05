@@ -50,6 +50,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 成龍歷險記,https://epg.112114.xyz/huya/11352946
 
 
+香港頻道,#genre#
+無綫新聞,http://2020.stream-link.org/playlist/tvb_news
+無綫財經,http://2020.stream-link.org/playlist/tvb_finance
+有線新聞,http://2020.stream-link.org/playlist/cable_news
+有線財經,http://2020.stream-link.org/playlist/cable_finance
+
 江西移動,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 1綜合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
