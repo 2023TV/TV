@@ -68,11 +68,14 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 東森洋片,https://epg.pm/stream/f93f8e27cae72e3979952c54ea0c7dca52b44a762593eab8881baf8032732c34.m3u8
 東森洋片,https://epg.pm/stream/9874d4a9817093ff528fdbac50a5fddfff70d08a41950e75ad75db647f6873f1.ctv
 
-好萊塢電影,
-好萊塢電影,
-好萊塢電影,
-好萊塢電影,
-好萊塢電影,
+好萊塢電影,https://epg.pm/stream/0756fd69fe230cdc92e8696b1bc1893253f78a7f780401e0f5de57716c0c0284.m3u8
+好萊塢電影,https://epg.pm/stream/bfe3c633a852f14d637b912578c4733539386e172560714b356b5c46f6a270aa.m3u8
+好萊塢電影,https://epg.pm/stream/15d8131b42c7676bf680e38da499b6d62bdefb32e17ac124237fc2368e536726.m3u8
+好萊塢電影,https://epg.pm/stream/1367d58d1ffafd2ca49d5c95e198ccac077ce23da3c2216a93b5880d436bdf80.m3u8
+好萊塢電影,https://epg.pm/stream/1d962a756166ef4cd4a10d69edd4fbc158a3c54fd9979c6028d106afd31654b2.m3u8
+好萊塢電影,https://epg.pm/stream/3979eac3b928789cc463b7536653b7161105ca9d498e4fc16f66920479817b8d.m3u8
+好萊塢電影,https://epg.pm/stream/c44afaac28326bb475ff6f8266f9d87c6f41d9fc2c0ab96a57e7965a648793d5.m3u8
+好萊塢電影,https://epg.pm/stream/c64889cfcabcc8f4ee1c48c328852b89ae164f98f06ee8ed21631281619f83a2.m3u8
 
 
 電影頻道,#genre#
