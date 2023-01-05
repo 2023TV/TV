@@ -39,6 +39,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北海道新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
+8278頻道,#genre#
+
+東森幼幼,https://epg.pm/stream/a63c1c39b99578e75fa02a46474cdf3e4f050371be2721576d68b272f367bd59.m3u8
+東森幼幼,https://epg.pm/stream/70f397b978ba2a9c2e552e5895ea0156abf05743ab9b383cecc8b44f79e69dee.m3u8
+東森幼幼,https://epg.pm/stream/34f6694a6296de9329aad8d86cfbf3581406cbd8611489ad4d574ca3286937c6.m3u8
+
 電影頻道,#genre#
 金馬影院,http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 超级電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
