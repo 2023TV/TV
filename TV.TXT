@@ -40,10 +40,20 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
 8278頻道,#genre#
+緯來日本,https://epg.pm/stream/ed4fd88e40c7018c9b76edccb80c372a885a410e5b0bec9d06ffb212632fe05b.m3u8
+緯來日本,rtmp://9wv7.mine.nu/sat/tv771
+緯來日本,https://epg.pm/stream/1dd0cbefec97109785cd5a3caa9d3a98376d4fe82c285adbd53d98ab069d6998.m3u8
 
 東森幼幼,https://epg.pm/stream/a63c1c39b99578e75fa02a46474cdf3e4f050371be2721576d68b272f367bd59.m3u8
 東森幼幼,https://epg.pm/stream/70f397b978ba2a9c2e552e5895ea0156abf05743ab9b383cecc8b44f79e69dee.m3u8
 東森幼幼,https://epg.pm/stream/34f6694a6296de9329aad8d86cfbf3581406cbd8611489ad4d574ca3286937c6.m3u8
+
+動物星球,https://epg.pm/stream/17d80c17b7911d85e439dbacf58796c06c7c52b52e2f1c51369bcea7c1de88cf.ctv
+動物星球,https://epg.pm/stream/623f5d00e5b56119a973dad4f14383c81556b35a25fccc37787ce36e346583b9.m3u8
+動物星球,https://epg.pm/stream/fc571d76579bfbfaa11627df3b82da95f9aba4c2fd4af44249e708f6c2eefecb.m3u8
+動物星球,https://epg.pm/stream/5c6487ae22d043fe8114a5babb35883b8b642c91da2c80a0db7753570fe6a9d8.m3u8
+動物星球,https://epg.pm/stream/ac88cee1aeb0674b09421f5bde3d3cec60b86d1c152cd05e5a78c4c4de40530f.m3u8
+
 
 電影頻道,#genre#
 金馬影院,http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
