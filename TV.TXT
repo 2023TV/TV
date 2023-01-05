@@ -50,8 +50,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 成龍歷險記,https://epg.112114.xyz/huya/11352946
 
 日本頻道,#genre#
-1,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-2,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+1NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+2NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 3,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 4Asahi TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 5,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
