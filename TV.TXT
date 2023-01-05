@@ -42,6 +42,14 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 電影頻道,#genre#
 金馬影院,http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
+紀實頻道,#genre#
+北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
+上海紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+金鹰紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+
 卡通頻道,#genre#
 蠟筆小新,http://zzy789.xyz:80/bili.php?id=10375360
 櫻桃小丸子,http://zzy789.xyz:80/bili.php?id=22034682
