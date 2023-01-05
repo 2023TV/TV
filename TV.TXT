@@ -39,6 +39,9 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北海道新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
+電影頻道,#genre#
+金馬影院,http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
 卡通頻道,#genre#
 蠟筆小新,http://zzy789.xyz:80/bili.php?id=10375360
 櫻桃小丸子,http://zzy789.xyz:80/bili.php?id=22034682
