@@ -54,6 +54,26 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 動物星球,https://epg.pm/stream/5c6487ae22d043fe8114a5babb35883b8b642c91da2c80a0db7753570fe6a9d8.m3u8
 動物星球,https://epg.pm/stream/ac88cee1aeb0674b09421f5bde3d3cec60b86d1c152cd05e5a78c4c4de40530f.m3u8
 
+東森洋片,https://epg.pm/stream/63727d4a68dd4e76fc24161ec4f084c350bcbcb828d3f6cde69691956cefceec.m3u8
+東森洋片,https://epg.pm/stream/9941d1ee6a7a1242b4fb807de73311b281ba407243a9612be39d52be59b42e30.m3u8
+東森洋片,https://epg.pm/stream/ef5168bb8584bbda2b423a0b092f5a941a49dc701bd8dc3d3516fa69687aaa52.m3u8
+東森洋片,https://epg.pm/stream/e6fe1fe7727ed4c7c2594b7072cfc07f207ff147a00f699f84ae07e11acd60cc.m3u8
+東森洋片,https://epg.pm/stream/652921bfb305cf1a662f8ff0f7811a57b6697d0413ff91a8d5ac0e5e5c4575dc.m3u8
+東森洋片,https://epg.pm/stream/13fe2c53792d793bd0cc3af725fea892e58f1342212b183c8e5fe8cdddaec9fd.m3u8
+東森洋片,https://epg.pm/stream/29339b9d0a835dc6b15dae154f74458e96d3921525ac9a3d768f9f4f1d87a9bf.m3u8
+東森洋片,https://epg.pm/stream/3c7280e1feb52b6e33517d913e81ed7187aca4afc487429f462b8edc7dff68bf.m3u8
+東森洋片,https://epg.pm/stream/5488c5454face4bd7ec66500930f5d8a33efeba1053ec055f5d175245acbbabb.m3u8
+東森洋片,https://epg.pm/stream/5670289347cda15a2997c48e887e5e129ab880fd7db370778a04256407d339c8.m3u8
+東森洋片,https://epg.pm/stream/f52cab8347cd25e19c8f87833eec07bc4987248ce83a06bea1ebcdb48a75e39c.m3u8
+東森洋片,https://epg.pm/stream/f93f8e27cae72e3979952c54ea0c7dca52b44a762593eab8881baf8032732c34.m3u8
+東森洋片,https://epg.pm/stream/9874d4a9817093ff528fdbac50a5fddfff70d08a41950e75ad75db647f6873f1.ctv
+
+好萊塢電影,
+好萊塢電影,
+好萊塢電影,
+好萊塢電影,
+好萊塢電影,
+
 
 電影頻道,#genre#
 金馬影院,http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
