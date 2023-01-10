@@ -1,5 +1,3 @@
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -9,8 +7,6 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 三立財經,https://www.youtube.com/watch?v=EB4g7wecgTI
 
 中天新聞,https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 
 東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
 
