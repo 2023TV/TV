@@ -22,3 +22,13 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+緯來日本https://epg.pw/livestreams/57ev5L6G5pel5pys.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
+東森幼幼https://epg.pw/livestreams/5p2x5qOu5bm85bm8.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
+東森洋片https://epg.pw/livestreams/5p2x5qOu5rSL54mH.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
+好萊塢電影https://epg.pw/livestreams/5aW96JCK5aGi6Zu75b2x.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
+動物星球https://epg.pw/livestreams/5YuV54mp5pif55CD.html?lang=zh-hant&timezone=QXNpYS9UYWlwZWk%3D
+
