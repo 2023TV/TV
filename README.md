@@ -24,6 +24,10 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中文國際,https://www.youtube.com/watch?v=QTz6avPD4Ns
 
+公視,https://www.youtube.com/watch?v=4Uc00FPs27M
+
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+
 我們這一家https://www.youtube.com/watch?v=UK81GCw1KE8
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
@@ -31,4 +35,9 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+
+華視包青天,https://www.youtube.com/watch?v=PY7a4qVNmgI
+
+華視天才衝衝衝,https://www.youtube.com/watch?v=pn_0gm9gztM
+
 
