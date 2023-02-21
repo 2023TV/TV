@@ -56,6 +56,10 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 
+藍色水玲瓏,https://www.youtube.com/watch?v=298QROP4xe0
+
+新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=1kzVPwTeKds
+
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
