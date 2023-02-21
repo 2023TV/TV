@@ -76,4 +76,10 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 高雄壽山情人觀景台,https://www.youtube.com/watch?v=C03Itx8iSC0
 
+鼻頭服務區,https://www.youtube.com/watch?v=zdIrkgkRLzo
+
+福隆海水浴場,https://www.youtube.com/watch?v=u7yeKK3HycM
+
+外澳沙灘,https://www.youtube.com/watch?v=lQFWHiUyLSk
+
 
