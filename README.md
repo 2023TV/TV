@@ -24,6 +24,8 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中文國際,https://www.youtube.com/watch?v=QTz6avPD4Ns
 
+信大電視,https://www.youtube.com/watch?v=KcFnNTAlJIE
+
 公視,https://www.youtube.com/watch?v=4Uc00FPs27M
 
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
@@ -47,5 +49,11 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 東森娛樂,https://www.youtube.com/watch?v=MQy7i4lGpYA
 
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+
+高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
+
+綠島南寮漁港,https://www.youtube.com/watch?v=wTHhv7M0vCI
 
 
