@@ -34,9 +34,15 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
 
+小豬佩琪,https://www.youtube.com/watch?v=ni1CxDStx0Y
+
 中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+
+中視超級星光大道,https://www.youtube.com/watch?v=GyYhwMfsOdE
+
+中視飢餓遊戲,https://www.youtube.com/watch?v=vILCdaEnfTo
 
 中視大陸尋奇,https://www.youtube.com/watch?v=pLxy7SRblyw
 
