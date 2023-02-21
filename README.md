@@ -22,3 +22,13 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+中文國際,https://www.youtube.com/watch?v=QTz6avPD4Ns
+
+我們這一家https://www.youtube.com/watch?v=UK81GCw1KE8
+
+中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
+
+中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
+
+中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+
