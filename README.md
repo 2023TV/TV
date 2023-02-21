@@ -54,6 +54,8 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森娛樂,https://www.youtube.com/watch?v=MQy7i4lGpYA
 
+新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
+
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
