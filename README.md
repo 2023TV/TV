@@ -70,6 +70,10 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 淡水區景點,https://www.youtube.com/watch?v=XZ33pSYNkug
 
+淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+
 台東多良車站,https://www.youtube.com/watch?v=UCG1aXVO8H8
+
+高雄壽山情人觀景台,https://www.youtube.com/watch?v=C03Itx8iSC0
 
 
