@@ -70,4 +70,6 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 淡水區景點,https://www.youtube.com/watch?v=XZ33pSYNkug
 
+台東多良車站,https://www.youtube.com/watch?v=UCG1aXVO8H8
+
 
