@@ -32,6 +32,8 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
 
+中視大陸尋奇,https://www.youtube.com/watch?v=pLxy7SRblyw
+
 中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -39,5 +41,7 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 華視包青天,https://www.youtube.com/watch?v=PY7a4qVNmgI
 
 華視天才衝衝衝,https://www.youtube.com/watch?v=pn_0gm9gztM
+
+東森娛樂,https://www.youtube.com/watch?v=MQy7i4lGpYA
 
 
