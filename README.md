@@ -52,8 +52,6 @@ Love Nature,https://stg.hinet.net/tv/?channel=029
 
 華視包青天,https://www.youtube.com/watch?v=PY7a4qVNmgI
 
-華視天才衝衝衝,https://www.youtube.com/watch?v=pn_0gm9gztM
-
 東森娛樂,https://www.youtube.com/watch?v=MQy7i4lGpYA
 
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
