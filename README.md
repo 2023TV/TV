@@ -1,4 +1,6 @@
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+
+(翻牆)TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
@@ -8,7 +10,9 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中天新聞,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森新聞,https://today.line.me/tw/v2/article/grrvVZ
+
+(翻牆)東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
 
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 
