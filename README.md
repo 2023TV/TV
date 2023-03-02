@@ -58,9 +58,3 @@ Love Nature,https://stg.hinet.net/tv/?channel=029
 
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 
-藍色水玲瓏,https://www.youtube.com/watch?v=298QROP4xe0
-
-新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=1kzVPwTeKds
-
-
-
