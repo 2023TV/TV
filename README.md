@@ -4,7 +4,7 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-三立海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
+(翻牆)三立海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 三立財經,https://www.youtube.com/watch?v=EB4g7wecgTI
 
