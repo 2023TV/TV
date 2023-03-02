@@ -24,17 +24,9 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 中文國際,https://www.youtube.com/watch?v=QTz6avPD4Ns
 
-信大電視,https://www.youtube.com/watch?v=KcFnNTAlJIE
-
-公視,https://www.youtube.com/watch?v=4Uc00FPs27M
-
-公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
-
 我們這一家https://www.youtube.com/watch?v=UK81GCw1KE8
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
-
-小豬佩琪,https://www.youtube.com/watch?v=ni1CxDStx0Y
 
 中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
@@ -60,26 +52,5 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=1kzVPwTeKds
 
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
-
-金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-
-高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
-
-綠島南寮漁港,https://www.youtube.com/watch?v=wTHhv7M0vCI
-
-淡水區景點,https://www.youtube.com/watch?v=XZ33pSYNkug
-
-淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
-
-台東多良車站,https://www.youtube.com/watch?v=UCG1aXVO8H8
-
-高雄壽山情人觀景台,https://www.youtube.com/watch?v=C03Itx8iSC0
-
-鼻頭服務區,https://www.youtube.com/watch?v=zdIrkgkRLzo
-
-福隆海水浴場,https://www.youtube.com/watch?v=u7yeKK3HycM
-
-外澳沙灘,https://www.youtube.com/watch?v=lQFWHiUyLSk
 
 
