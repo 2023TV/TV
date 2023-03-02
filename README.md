@@ -28,6 +28,12 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
 中文國際,https://www.youtube.com/watch?v=QTz6avPD4Ns
 
+靖天日本,https://stg.hinet.net/tv/?channel=010
+
+龍華日韓,https://stg.hinet.net/tv/?channel=011
+
+Love Nature,https://stg.hinet.net/tv/?channel=029
+
 我們這一家https://www.youtube.com/watch?v=UK81GCw1KE8
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
