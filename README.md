@@ -68,21 +68,4 @@ Love Nature,https://stg.hinet.net/tv/?channel=029
 
 中華一番https://www.youtube.com/watch?v=E0JOmRTFGlE
 
-中視歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
-
-中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
-
-中視超級星光大道,https://www.youtube.com/watch?v=GyYhwMfsOdE
-
-中視飢餓遊戲,https://www.youtube.com/watch?v=vILCdaEnfTo
-
-中視大陸尋奇,https://www.youtube.com/watch?v=pLxy7SRblyw
-
-中視MIT台灣誌,https://www.youtube.com/watch?v=M2NRWZOZ8Ww
-
-華視包青天,https://www.youtube.com/watch?v=PY7a4qVNmgI
-
-東森娛樂,https://www.youtube.com/watch?v=MQy7i4lGpYA
-
-新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 
